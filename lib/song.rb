@@ -36,9 +36,9 @@ require 'pry'
       #     else
       #     genre_count[genre] = 1
       #     end
-     end
+    # end
     
-       genre_count
+    #   genre_count
     
    end
   
